@@ -1,0 +1,1 @@
+# safe-intercom-id-generator
